@@ -1,7 +1,7 @@
 <div style="text-align: left;"> 
     <div style="text-align: left;"> <a href=mailto:cheolsoon2725@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cheolsoon2725@gmail.com"> </a>
           </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" align="center"> 끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각 박철순입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" align="center"> 도전하고 실패하고 다시 배우는 과정을 즐기는 박철순입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <div align="center"><strong>끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각</strong><br/></div>
 <br/>
