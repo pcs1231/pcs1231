@@ -1,4 +1,6 @@
 <div style="text-align: left;"> 
+    <div style="text-align: left;"> <a href=mailto:cheolsoon2725@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cheolsoon2725@gmail.com"> </a>
+          </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" align="center"> 끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각 박철순입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <div align="center"><strong>끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각</strong><br/></div>
@@ -10,8 +12,7 @@
         </div>
 새로운 것을 만들어 내는 것 뿐만 아닌 발생하는 <strong>문제들을 해결하는 과정에서 즐거움</strong>을 얻고 있습니다.
 <strong>'우물 안 개구리'</strong>가 아닌 <strong>'우물 밖 달팽이'</strong>가 되어 느리긴 해도 멈추지 않고 꾸준히 움직이며, 때로는 잠시 숨 돌릴 여유를 찾는 것처럼, 저 또한 어려움에도 <strong>포기하지 않고 끈기 있게 나아가는 핵심조각</strong>이 되려고 합니다!.</div> 
-    <div style="text-align: left;"> <a href=mailto:cheolsoon2725@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cheolsoon2725@gmail.com"> </a>
-          </div>
+    
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술스택 </h2> <br> 
