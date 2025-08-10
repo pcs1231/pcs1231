@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 실패를 통해 문제를 해결하는 과정을 즐기며, 다음 성장을 기대하는 박철순입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" align="center"> 끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각 박철순입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <div align="center"><strong>끊임없는 배움을 통해 즐거움을 얻어 미래가 기대가 되는 핵심 조각</strong><br/></div>
 <br/>
