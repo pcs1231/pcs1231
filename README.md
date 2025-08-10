@@ -11,8 +11,8 @@
 3. 끊임없이 변화하는 시대에 맞춰 직무 관련 지식을 확장시켜주는 <strong>통찰력</strong><br/><br/>
         </div>
 새로운 것을 만들어 내는 것 뿐만 아닌 발생하는 <strong>문제들을 해결하는 과정에서 즐거움</strong>을 얻고 있습니다.
-<strong>'우물 안 개구리'</strong>가 아닌 <strong>'우물 밖 달팽이'</strong>가 되어 느리긴 해도 멈추지 않고 꾸준히 움직이며, 때로는 잠시 숨 돌릴 여유를 찾는 것처럼, 저 또한 어려움에도 <strong>포기하지 않고 끈기 있게 나아가는 핵심조각</strong>이 되려고 합니다!.</div> 
-    
+<strong>'우물 안 개구리'</strong>가 아닌 <strong>'우물 밖 달팽이'</strong>가 되어 느리긴 해도 멈추지 않고 꾸준히 움직이며, 때로는 잠시 숨 돌릴 여유를 찾는 것처럼, 저 또한 어려움에도 <strong>포기하지 않고 끈기 있게 나아가는 핵심조각</strong>이 되려고 합니다!</div> 
+    <div></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술스택 </h2> <br> 
